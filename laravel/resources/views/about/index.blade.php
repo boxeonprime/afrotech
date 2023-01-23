@@ -8,17 +8,17 @@
 
     <main id="about">
         <section class="section maxw1035 padding-1-em white">
-            <h1 class="white font-size-3-em">The #BlackGirlFollowTrain movement continues with #BlackExitTrain...</h1>
+            <h1 class="white font-size-3-em">Welcome to the #BlackExitTrain movement...</h1>
             <div class="white text-align-left">
                 <h2 class="uppercase green">Mission</h2>
                 <p class="white">Establish Black first-class citizenship on Social</p>
             </div>
             <h2 class="uppercase green">Overview</h2>
-            <p>AfroTok will be an invitation-only video streaming application that places the Black community first. It will be a
+            <p>AfroTok will be an inviten-only video streaming application that places the Black community first. It will be a
                 safe space for collaboration, entertainment, discussion, and communalism.</p>
    
-            <p>AfroTok will provide creators with more monitization opportunities, give all stakeholders
-                a better experience on Social, and be governed by content guidelines germane to the Black community globally. </p>
+            <p>AfroTok will provide creators with more monitization opportunities, give
+                a better experience on Social, and be governed by content guidelines germane to the Black community. </p>
             <h2 class="uppercase green">Background</h2>
             <p>At the end of 2022, after years of rampant abuse on TikTok, the Black community cried out for a TikTok
                 replacement. The straw that broke the camel's back was the shadow banning of the #BlackGirlFollowTrain. This
@@ -30,15 +30,15 @@
             <div class="three-col-grid grid-gap-4-em maxw1035 padding-1-em">
                 <div>
                     <h3 class="green">Estimated Cost</h3>
-                    <p class="white">$100, 000</p>
+                    <p class="white">$100, 000, 000</p>
                 </div>
                 <div>
                     <h3 class="green">Estimated Release Date</h3>
-                    <p class="white">Spring 2023</p>
+                    <p class="white">TBA</p>
                 </div>
                 <div>
                     <h3 class="green">Project Leads</h3>
-                    <p class="white">Genia Jackson, Trevor Prime</p>
+                    <p class="white">TBA</p>
                 </div>
 
             </div>
