@@ -27,8 +27,7 @@ header('Accept-Encoding: gzip, compress, br');
 <link defer rel="stylesheet" href="{{ asset('/assets/css/app.css') }}">
 <link rel="stylesheet" media="screen and (min-width: 200px) and (max-width: 1810px)"
     href="{{ asset('/assets/css/mobile.min.css?v=3.6') }}" />
-<!-- Latest compiled and minified CSS -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
 <script defer type="module" src="{{ asset('/assets/js/global.js?v=2.1') }}"></script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
