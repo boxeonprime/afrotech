@@ -7,11 +7,11 @@
 @section('content')
 
     <main id="about">
-        <section class="section maxw1035 padding-1-em white">
-            <h1 class="white font-size-3-em">Welcome to the #TakeBackControl movement...</h1>
-            <div class="white text-align-left">
+        <section class="section maxw1035 padding-1-em">
+            <h1 class=" font-size-3-em">Welcome to the #TakeBackControl movement...</h1>
+            <div class=" text-align-left">
                 <h2 class="uppercase green">Mission</h2>
-                <p class="white">Establish Black first-class citizenship on Social</p>
+                <p class="">Establish Black first-class citizenship on Social</p>
             </div>
             <h2 class="uppercase green">Overview</h2>
             <p>AfroTok will be an inviten-only video streaming application that places the Black community first. It will be a
@@ -31,15 +31,15 @@
             <div class="three-col-grid grid-gap-4-em maxw1035 padding-1-em">
                 <div>
                     <h3 class="green">Estimated Cost</h3>
-                    <p class="white">$100, 000, 000</p>
+                    <p class="">$100, 000, 000</p>
                 </div>
                 <div>
                     <h3 class="green">Estimated Release Date</h3>
-                    <p class="white">TBA</p>
+                    <p class="">TBA</p>
                 </div>
                 <div>
                     <h3 class="green">Project Leads</h3>
-                    <p class="white">TBA</p>
+                    <p class="">TBA</p>
                 </div>
 
             </div>
