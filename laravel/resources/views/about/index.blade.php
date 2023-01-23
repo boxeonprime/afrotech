@@ -3,7 +3,7 @@
 @section('og:image', asset('../assets/images/logo_square.png'))
 @section('og:image:alt', asset('../assets/images/logo_square2.png'))
 @section('keywords', 'AfroTok, Video Streaming App, Black social network, Black mobile app')
-@section('description', 'AfroTok is a video streaming app for black families and allies to replace TikTok.')
+@section('description', 'AfroTok is a invite-only video streaming app for the global black community.')
 @section('content')
 
     <main id="about">
