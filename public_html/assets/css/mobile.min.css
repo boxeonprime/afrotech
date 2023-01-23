@@ -63,13 +63,17 @@
 
  @media only screen and (max-width: 600px) {
 
+    .button{
+        min-width: none;
+    }
+
      section .margin-top-4-em {
          margin-top: 0 !important;
      }
 
      .maxw1036, .maxw1035 {
-         max-width: 1035px;
-         width: 95%;
+         max-width: 550px;
+         width: 90%;
      }
 
      .section h3 {

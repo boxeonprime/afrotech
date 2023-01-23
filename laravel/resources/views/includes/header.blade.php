@@ -10,8 +10,8 @@
         
         <a class="button" href="/donate" title="Donate">Donate</a>
         <a class="button hide" href="/apply" title="RSVP">Request An Invitation <span class="material-symbols-outlined move-arrow-down">arrow_forward</span></a>
-        
-        <span class="hack"></span>
+        <a class="button m-hide" href="/apply" title="RSVP">Request</a>
+
     
     </div>
 </header>

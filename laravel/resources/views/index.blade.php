@@ -12,7 +12,7 @@
                 <img id="logo-main" width="160px" class="r-float" src="{{ asset('../assets/images/logo-black.webp') }}" alt="AfroTok">
                 <h1 id="headline_h1" class="r-float font-size-2-5-em green">Take back control</h1>
                 <p id="pitch-2" class="text-align-right max-width-25-em r-float">AfroTok is an
-                    invite-only video streaming app for the black community that provides legal protection for original content and featuring an algorithm that places us first. The beta version will be released ASAP.</p>
+                    invite-only video streaming app for the black community that provides legal protection for original content and features an algorithm placing them first.</p>
 
                 <button id="donate-btn" class="donate r-float button">DONATE</button>
             </div>

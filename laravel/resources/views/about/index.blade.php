@@ -8,7 +8,7 @@
 
     <main id="about">
         <section class="section maxw1035 padding-1-em white">
-            <h1 class="white font-size-3-em">Welcome to the #BlackExitTrain movement...</h1>
+            <h1 class="white font-size-3-em">Welcome to the #TakeBackControl movement...</h1>
             <div class="white text-align-left">
                 <h2 class="uppercase green">Mission</h2>
                 <p class="white">Establish Black first-class citizenship on Social</p>
@@ -25,6 +25,7 @@
                 hashtag - still in its infancy, commanded almost 200 million views and was met with a deluge of complaints
                 and reporting of content. The backlash falsely premised that Black women supporting each other in response
                 to abuse and marginalization is, in fact, racist. TikTok responded by killing the hashtag's momentum.</p>
+                <p></p>
 
             <div class="div-horizontal-rule"></div>
             <div class="three-col-grid grid-gap-4-em maxw1035 padding-1-em">
