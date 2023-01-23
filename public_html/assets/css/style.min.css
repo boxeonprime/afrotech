@@ -3059,7 +3059,7 @@ td ul li {
 #home main p {
     max-width: 600px;
 }
-.container{
+.container-fluid{
     padding-left: 0 !important;
     padding-right: 0 !important;
 }
