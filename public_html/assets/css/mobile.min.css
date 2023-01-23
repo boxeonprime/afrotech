@@ -63,8 +63,8 @@
 
  @media only screen and (max-width: 600px) {
 
-    .button{
-        min-width: none;
+    #header-wrapper .button{
+        min-width: 0;
     }
 
      section .margin-top-4-em {
