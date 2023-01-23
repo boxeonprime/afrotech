@@ -1,4 +1,4 @@
-@extends('layouts.index')
+@extends('layouts.about')
 @section('title', 'AfroTok - Privacy Statement')
 @section('content')
 
