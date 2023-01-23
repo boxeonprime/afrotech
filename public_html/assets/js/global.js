@@ -97,7 +97,7 @@ window.onload = function () {
     for (var i = 0; i < num; i++) {
 
       buttons[i].addEventListener("click", function () {
-        location.assign("/donate");
+        location.assign("https://www.indiegogo.com/project/preview/95da2bb8");
       });
 
     }
