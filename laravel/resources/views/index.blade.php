@@ -12,14 +12,13 @@
                 <img id="logo-main" width="160px" class="r-float" src="{{ asset('../assets/images/logo-black.webp') }}" alt="AfroTok">
                 <h1 id="headline_h1" class="r-float font-size-2-5-em green">Take back control</h1>
                 <p id="pitch-2" class="text-align-right max-width-25-em r-float">AfroTok is an
-                    invite-only video streaming app for the global black community with an algorithm that centers us. The beta version will be released ASAP.</p>
+                    invite-only video streaming app for the black community that provides legal protection for original content and featuring an algorithm that places us first. The beta version will be released ASAP.</p>
 
                 <button id="donate-btn" class="donate r-float button">DONATE</button>
             </div>
             <div>
                 <img id="app-preview" width="317px" src="{{ asset('../assets/images/app-preview.webp') }}"
                     alt="AfroTok"><br>
-
             </div>
         </aside>
         <br>
@@ -48,8 +47,8 @@
                 <div class="w-max-content margin-top-2em">
                     <h2 class="font-size-3-em sentence-case text-black margin-top-zero">Benefits for creators</h2>
                     <h3 class="text-black">✓ Content ownership</h3>
+                    <h3 class="text-black">✓ Legal protection for original content</h3>
                     <h3 class="text-black">✓ Patreon-like memberships</h3>
-                    <h3 class="text-black">✓ Message all followers</h3>
                     <h3 class="text-black">✓ Profit sharing</h3>
                     <h3 class="text-black">✓ Black centered algorithm</h3>
                     <button class="request" class="w100per button">REQUEST INVITATION</button>
@@ -60,8 +59,7 @@
                 <span></span>
                 <div>
                     <h2 class="centered sentence-case text-black font-size-3-em">Join the movement. <br>Tag
-                        #AfroTok #BlackExitTrain</h2>
-
+                        #AfroTok #TakeBackControl</h2>
                     <div id="tiktok-videos" class="three-col-grid">
                         <div class="p-relative">
                             <img id="genia.mp4" class="w100per margin-auto" loading="lazy" src="{{ '../assets/images/video-thumb.webp' }}" alt="Endorsement">
@@ -86,7 +84,7 @@
                 <span></span>
             </section>
             <section class="maxw1035px">
-                <a href="/donate" class="donate margin-auto button">DONATE</a>
+                <a href="https://www.indiegogo.com/project/preview/95da2bb8" class="donate margin-auto button">DONATE</a>
             </section>
             <br><br>
         </section>

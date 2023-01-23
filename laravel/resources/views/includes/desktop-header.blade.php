@@ -7,11 +7,8 @@
         <a id='logo' href="/" title='Black Haveb'>
             <img id='logo' width="127px" height="50px" src='{{ asset('../assets/images/logo.webp') }}' alt='logo' />
         </a>
-        <a class="button" href="/donate" title="Donate">Donate</a>
+        <a class="button" href="https://www.indiegogo.com/project/preview/95da2bb8" title="Donate">Donate</a>
         <a class="button hide" href="/apply" title="RSVP">Request An Invitation <span class="material-symbols-outlined move-arrow-down">arrow_forward</span></a>
-        <span></span>
-        <span class="hack"></span>
-        <span></span>
-        <span></span>
+        <a class="button m-hide" href="/apply" title="Apply">Request</a>
     </div>
 </header>
