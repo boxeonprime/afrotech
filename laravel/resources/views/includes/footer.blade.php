@@ -1,4 +1,4 @@
-<footer class=".container-fluid">
+<footer class="container-fluid">
     <div id="footer-content-wrapper" class="margin-top-4-em"> <span>&copy; {{ date('Y') }} Trevor Prime LLC.</span>
         <a href="/terms">Terms</a>
         <a href="/privacy">Privacy</a>
