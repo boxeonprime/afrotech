@@ -3,7 +3,7 @@
 @section('content')
 
     <main>
-        <section class="section card maxw1036">
+        <section class="section maxw1035 card padding-1-em">
 
             <h1 class='extra-large-font centered darkblue'>Terms of Use</h1>
             <p>Effective January 1, 2023</p>

@@ -7,8 +7,8 @@
 @section('content')
 
     <main id="about">
-        <section class="section maxw1035 padding-1-em">
-            <h1 class=" font-size-3-em">Welcome to the #TakeBackControl movement...</h1>
+        <section class="section maxw1035 card padding-1-em">
+            <h1 class=" font-size-3-em">Welcome to the #TakeBackControl movement.</h1>
             <div class=" text-align-left">
                 <h2 class="uppercase green">Mission</h2>
                 <p class="">Establish Black first-class citizenship on Social</p>
