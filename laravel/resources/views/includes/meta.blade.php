@@ -22,8 +22,6 @@ header('Accept-Encoding: gzip, compress, br');
 <link rel="icon" type="image/svg+xml" href="{{ asset('/assets/images/favicon.webp') }}">
 <link rel="alternate icon" href="{{ asset('/assets/images/favicon.webp') }}">
 <link rel="mask-icon" href="{{ asset('/assets/images/favicon.webp')}}" color="#fff">
-<!-- Latest compiled and minified CSS -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 <link rel="stylesheet" href="{{ asset('/assets/css/style.min.css') }}">
 <link rel="stylesheet" href="{{ asset('/assets/css/forms.min.css?v=35') }}">
 <link defer rel="stylesheet" href="{{ asset('/assets/css/app.css') }}">
