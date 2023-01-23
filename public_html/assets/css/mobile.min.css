@@ -63,7 +63,7 @@
 
  @media only screen and (max-width: 600px) {
 
-    #header-wrapper .button{
+    #header-inner-wrapper .button{
         min-width: 0;
     }
 
