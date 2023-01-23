@@ -13,7 +13,7 @@
         <p class='centered'> {{ session()->get('message') }}</p>
     </dialog>
 @endif
-    <div class="container">
+    <div class="container-fluid">
        
         @include('includes.header')
         <span></span>

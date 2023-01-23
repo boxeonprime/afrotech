@@ -47,7 +47,7 @@
                 <div class="w-max-content margin-top-2em">
                     <h2 class="font-size-3-em sentence-case text-black margin-top-zero">Benefits for creators</h2>
                     <h3 class="text-black">✓ Content ownership</h3>
-                    <h3 class="text-black">✓ Legal protection for original content</h3>
+                    <h3 class="text-black">✓ Protection for original content</h3>
                     <h3 class="text-black">✓ Patreon-like memberships</h3>
                     <h3 class="text-black">✓ Profit sharing</h3>
                     <h3 class="text-black">✓ Black centered algorithm</h3>
