@@ -4,7 +4,7 @@
     @include('includes.meta')
 </head>
 <body id='index'>
-    <div id="container">
+    <div class="container-fluid">
         <span></span><!-- Hack-->
         @include('includes.header')
         @include('includes.menus.index')

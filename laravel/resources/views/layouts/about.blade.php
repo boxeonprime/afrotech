@@ -7,7 +7,7 @@
 </head>
 
 <body class="about">
-    <div id="container" class="bg-black">
+    <div class="container-fluid" class="bg-black">
         <span></span><!-- Hack-->
         @include('includes.header')
         @include('includes.menus.index')

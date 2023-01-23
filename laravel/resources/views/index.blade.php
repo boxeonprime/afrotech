@@ -5,7 +5,7 @@
 @section('keywords', 'AfroTok, Black social network, Black owned social media, black exit train')
 @section('description', 'AfroTok is an invite-only video streaming app for the global black community with an algorithm that centers us.')
 @section('content')
-    <div id="masthead">
+    <div id="masthead" class="margin-top-4-em">
         <aside class="asides call-out mobile-scroll two-col-grid">
             <div>
                 <br>
