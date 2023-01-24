@@ -12,7 +12,7 @@
                 <img id="logo-main" width="160px" class="r-float" src="{{ asset('../assets/images/logo-black.webp') }}" alt="AfroTok">
                 <h1 id="headline_h1" class="r-float font-size-2-5-em green">Take back control</h1>
                 <p id="pitch-2" class="text-align-right max-width-25-em r-float">AfroTok is an
-                    invite-only video streaming app for the black community that provides legal protection for original content and features a black-first algorithm.</p>
+                    invite-only video streaming app for the black community that provides legal control for original content and features a black-first algorithm.</p>
 
                 <button id="donate-btn" class="donate r-float button">DONATE</button>
             </div>
@@ -37,7 +37,7 @@
                     <h3 class="text-black">✓ Educational</h3>
                     <h3 class="text-black">✓ Cultural</h3>
                     <h3 class="text-black">✓ Communalistic</h3>
-                    <button class="request" class="w100per button">REQUEST INVITATION</button>
+                    <button class="request" class="w100per button">RSVP</button>
                 </div>
                 <span></span>
             </section>
@@ -51,7 +51,7 @@
                     <h3 class="text-black">✓ Patreon-like memberships</h3>
                     <h3 class="text-black">✓ Profit sharing</h3>
                     <h3 class="text-black">✓ Black centered algorithm</h3>
-                    <button class="request" class="w100per button">REQUEST INVITATION</button>
+                    <button class="request" class="w100per button">RSVP</button>
                 </div>
                 <span></span>
             </section>

@@ -8,8 +8,8 @@
             <img id='logo' width="127px" height="50px" src='{{ asset('../assets/images/logo.webp') }}' alt='logo' />
         </a>
         <a class="button" href="https://www.indiegogo.com/project/preview/95da2bb8" title="Donate">Donate</a>
-        <a class="button hide" href="/apply" title="RSVP">Request An Invitation <span class="material-symbols-outlined move-arrow-down">arrow_forward</span></a>
-        <a class="button m-hide" href="/apply" title="RSVP">Request</a>
+        <a class="button hide" href="/apply" title="RSVP">RSVP <span class="material-symbols-outlined move-arrow-down">arrow_forward</span></a>
+        <a class="button m-hide" href="/apply" title="RSVP">RSVP</a>
     </div>
 </header>
 

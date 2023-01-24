@@ -1,12 +1,12 @@
 
         <section class="section maxw1035 margin-bottom-4-em  mobile-scroll">
             <br>
-            <h2 class="margin-auto fit-content text-black">WHAT'S DIFFERENT</h2>
+            <h2 class="margin-auto fit-content text-black">MORE DIFFERENCES</h2>
             <div id="how-it-works" class="three-col-grid">
                 <div class="works-wrapper">
                     <img id="img-shopping" lass="image-how-it-works" height="60px" loading="lazy" src="../assets/images/undraw_smiley-face.svg"
                         alt="Shopping" />
-                    <h2 class="centered">Better algorithm</h2>
+                    <h2 class="centered">Feel-good algorithm</h2>
                     <p class="centered">Unlike other algorithms that rely on outrage, ours will favor inspiration, feel-good, and motivation.</p>
                 </div>
                 <div class="works-wrapper">
